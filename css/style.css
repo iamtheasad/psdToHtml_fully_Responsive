@@ -79,6 +79,8 @@ p{
 
 .menu ul li a:hover {
 	color: #87d37c;
+	-webkit-transition: 0.3s;
+	-o-transition: 0.3s;
 	transition: 0.3s;
 }
 
@@ -157,6 +159,8 @@ p{
 .about:hover i,
 .about:hover h2 {
 	color: #87d37c;
+	-webkit-transition: .5s;
+	-o-transition: .5s;
 	transition: .5s;
 }
 .about h2 {
@@ -247,6 +251,8 @@ p{
 .contact_single:hover i,
 .contact_single:hover h2 {
 	color: #87d37c;
+	-webkit-transition: .5s;
+	-o-transition: .5s;
 	transition: .5s;
 }
 
@@ -311,6 +317,8 @@ p{
 	color: #fff;
 	background: #87d37c;
 	border: none;
+	-webkit-transition: 0.5s;
+	-o-transition: 0.5s;
 	transition: 0.5s;
 	
 }
@@ -363,54 +371,4 @@ footer {
 	padding: 20px 0px;
     font-size: 15px;
 }
-
-
 /* footer section end */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
