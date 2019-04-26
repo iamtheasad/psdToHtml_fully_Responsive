@@ -36,9 +36,9 @@ p{
 .container {
 	max-width: 1170px;
 	margin: 0 auto;
-    overflow: hidden;
-    padding-left: 15px;
-    padding-right: 15px;
+   overflow: hidden;
+   padding-left: 15px;
+   padding-right: 15px;
 }
 
 .slider_top{
